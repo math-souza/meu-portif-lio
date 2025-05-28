@@ -1,0 +1,8 @@
+site_name: MeuBlog
+theme:
+  name: material
+  logo: assets/favicon.ico
+nav:
+  - Home: index.md
+  - Projetos:
+    - Zabbix & Monitoramento: blogs/projetos/zabbix-project.md
